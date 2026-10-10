@@ -58,8 +58,8 @@ Complete method and analysis can be read in [docs/](docs/).
 ## Run
 
 ```
-git clone https://github.com/kv2304/defect-diffusion-as-a-markov-process.git
-cd defect-diffusion-as-a-markov-process
+git clone https://github.com/kv2304/defect-diffusion.git
+cd defect-diffusion
 pip install -r requirements.txt
 python diffusion.py     # ~4s, redraws figures/
 ```
